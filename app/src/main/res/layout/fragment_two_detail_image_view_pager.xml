@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.padcmyanmar.padc_9_tab_viewpager_recyclerview_fragment.view.item.ViewPagerImageItem xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/iv_view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        android:src="@drawable/tid_talks_frg_two" />
+
+</com.padcmyanmar.padc_9_tab_viewpager_recyclerview_fragment.view.item.ViewPagerImageItem>

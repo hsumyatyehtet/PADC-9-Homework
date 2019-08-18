@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PADC_9_Tab_ViewPager_RecyclerView_Fragment</string>
+    <string name="tv_fragment_one_detail">In 2018, Scotland, Iceland and New Zealand established the network of Wellbeing Economy Governments to challenge the acceptance of GDP as the ultimate measure of a country\'s success. In this visionary talk, First Minister of Scotland Nicola Sturgeon explains the far-reaching implications of a well-being economy -- which places factors like equal pay, childcare, mental health and access to green spaces at its heart -- and shows how this new focus could help build resolve to confront global challenges.</string>
+    <string name="tv_fragment_one_detail_second">TEDSummit 2019, Filmed Jul 2019</string>
+    <string name="nicola_sturgeno">Nicola Sturgeno</string>
+    <string name="why_governments_should">Why governments should</string>
+    <string name="prioritize_well_being">prioritize well-being</string>
+    <string name="_10_00">10:00</string>
+    <string name="tv_divided">|</string>
+    <string name="listen">Listen</string>
+    <string name="jason_shen">Jason Shen</string>
+    <string name="looking_for_a_job_highlight">Looking for a job? Highlight</string>
+    <string name="tv_fragment_two_detail">Very few of us hold jobs that line up directly with our past experiences or what we studied in college. Take TED Resident Jason Shen; he studied biology but later became a product manager at a tech company. In this quick, insightful talk about human potential, Shen shares some new thinking on how job seekers can make themselves more attractive -- and why employers should look for ability over credntials.</string>
+    <string name="tv_fragment_two_detail_second">TED Residency, Filmed Nov 2017</string>
+    <string name="tv_skr">Sir Ken Robinson</string>
+    <string name="tv_fragment_three_title">Do schools kill creativity?</string>
+    <string name="tv_frg_two_time">6:30</string>
+    <string name="tv_frg_three_time">19:24</string>
+    <string name="tv_frg_three_detail">Sir Ken Robinson makes an entertaining and profoundly moving case for creating an education system that nurtures (rather than undermines) creativity.</string>
+    <string name="tv_frg_three_detail_second">TED2006, Filmed Feb 2006.</string>
+</resources>
